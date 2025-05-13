@@ -18,7 +18,7 @@
 
 | Player vs Player | Player vs AI |
 |------------------|--------------|
-| ![PvP](Images/tic-tcc-toe2.png) | ![AI](Images/tic-tac-toe.png) |
+| ![PvP](Images/tic-tac-toe2.png) | ![AI](Images/tic-tcc-toe.png) |
 
 
 
